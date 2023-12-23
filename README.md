@@ -10,3 +10,6 @@ Work on central tendency.
 Worked on missing values and outliers.
 Check the skewness and correlation of the data.
 Analyze the data through visualizations using Boxplot.
+Uploaded my project as Project1.ipynb (Visual Studio Code) also NextHikes_Project_1__Data_Acquisition_&_Data_Wrangling.ipynb (Google Colab Notebook)
+Project 1 - Presentation on Data Acquisition & Data Wrangling.pptx
+Also all the supporting documents like datasets and the word document which consist of Overview of the project given by Mentor.
